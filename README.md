@@ -91,12 +91,12 @@ Currently building products with Go, PostgreSQL, Docker, and modern cloud techno
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=abayxxx&show_icons=true&theme=tokyonight"
+src="https://github-stats-extended.vercel.app/api?username=abayxxx&show_icons=true&theme=tokyonight"
 />
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abayxxx&layout=compact&theme=tokyonight"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=abayxxx&layout=compact&theme=tokyonight"
 />
 
 </p>
