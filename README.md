@@ -32,8 +32,15 @@ Currently building products with Go, PostgreSQL, Docker, and modern cloud techno
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/mtaufikakbar
-- Instagram: https://www.instagram.com/taufikabayy
+<p align="left">
+  <a href="https://www.linkedin.com/in/mtaufikakbar">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/taufikabayy">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32"/>
+  </a>
+</p>
 
 ---
 
