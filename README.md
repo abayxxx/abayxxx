@@ -32,7 +32,8 @@ Currently building products with Go, PostgreSQL, Docker, and modern cloud techno
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/abayxxx
+- LinkedIn: https://www.linkedin.com/in/mtaufikakbar
+- Instagram: https://www.instagram.com/taufikabayy
 
 ---
 
