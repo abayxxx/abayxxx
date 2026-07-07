@@ -3,9 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=abayxxx&style=flat-square)
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 </p>
 
 
@@ -27,8 +24,8 @@ Currently building products with Go, PostgreSQL, Docker, and modern cloud techno
 - 💻 Backend Software Engineer
 - ⚡ Primary language: **Go (Golang)**
 - 🤖 Interested in AI Agents, RAG, LLMs & Automation
-- ☁️ Love Cloud Infrastructure & DevOps
-- 📚 Still learning Distributed Systems & System Design
+- ☁️ Exploring Cloud Infrastructure & DevOps
+- 📚 Still learning about Distributed Systems & System Design
 
 ---
 
