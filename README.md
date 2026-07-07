@@ -32,8 +32,15 @@ Currently building products with Go, PostgreSQL, Docker, and modern cloud techno
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taufik_Akbar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtaufikakbar)
-[![Instagram](https://img.shields.io/badge/Instagram-@taufikabayy-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/taufikabayy)
+<p>
+  <a href="https://www.linkedin.com/in/mtaufikakbar">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/taufikabayy">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" />
+  </a>
+</p>
 
 ---
 
