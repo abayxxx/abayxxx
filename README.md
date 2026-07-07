@@ -35,14 +35,8 @@ Currently building products with Go, PostgreSQL, Docker, and modern cloud techno
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=abayxxx&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=abayxxx&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=abayxxx&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abayxxx&layout=compact&theme=tokyonight" />
 </p>
 
 
