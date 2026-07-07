@@ -1,11 +1,3 @@
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=abayxxx&style=flat-square)
-
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Abay</h1>
 
 <h3 align="center">
